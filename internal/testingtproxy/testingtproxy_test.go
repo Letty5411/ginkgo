@@ -8,7 +8,7 @@ import (
 
 	"github.com/onsi/gomega/gbytes"
 
-	"github.com/Letty5411/ginkgo/v2/internal/testingtproxy"
+	"github.com/onsi/ginkgo/v2/internal/testingtproxy"
 	"github.com/onsi/ginkgo/v2/types"
 )
 

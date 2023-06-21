@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/Letty5411/ginkgo/v2/internal"
-	"github.com/Letty5411/ginkgo/v2/internal/global"
+	"github.com/onsi/ginkgo/v2/internal"
+	"github.com/onsi/ginkgo/v2/internal/global"
 	"github.com/onsi/ginkgo/v2/reporters"
 	"github.com/onsi/ginkgo/v2/types"
 )

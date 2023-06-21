@@ -4,7 +4,7 @@ import (
 	"testing"
 	"time"
 
-	. "github.com/Letty5411/ginkgo/v2"
+	. "github.com/onsi/ginkgo/v2"
 	. "github.com/onsi/gomega"
 )
 

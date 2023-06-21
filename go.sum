@@ -1,5 +1,5 @@
-github.com/Letty5411/ginkgo/v2 v2.1.7 h1:tB65PZPPHiU0GxOVFFcSdU29rHU+R1q8vsXuwW/VrWY=
-github.com/Letty5411/ginkgo/v2 v2.1.7/go.mod h1:6k7yDwEDRe16WU86mywIGXIGJYYBQMivQCi4ZnnbpB4=
+github.com/onsi/ginkgo/v2 v2.1.7 h1:tB65PZPPHiU0GxOVFFcSdU29rHU+R1q8vsXuwW/VrWY=
+github.com/onsi/ginkgo/v2 v2.1.7/go.mod h1:6k7yDwEDRe16WU86mywIGXIGJYYBQMivQCi4ZnnbpB4=
 github.com/chzyer/logex v1.1.10/go.mod h1:+Ywpsq7O8HXn0nuIou7OrIPyXbp3wmkHB+jjWRnGsAI=
 github.com/chzyer/readline v0.0.0-20180603132655-2972be24d48e/go.mod h1:nSuG5e5PlCu98SY8svDHJxuZscDgtXS6KTTbou5AhLI=
 github.com/chzyer/test v0.0.0-20180213035817-a1ea475d72b1/go.mod h1:Q3SI9o4m/ZMnBNeIyt5eFwwo7qiLfzFZmjNmxjkiQlU=

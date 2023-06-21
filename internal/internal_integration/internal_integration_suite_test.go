@@ -6,10 +6,10 @@ import (
 	"testing"
 
 	. "github.com/onsi/ginkgo/v2"
-	"github.com/Letty5411/ginkgo/v2/internal"
-	"github.com/Letty5411/ginkgo/v2/internal/global"
-	"github.com/Letty5411/ginkgo/v2/internal/parallel_support"
-	. "github.com/Letty5411/ginkgo/v2/internal/test_helpers"
+	"github.com/onsi/ginkgo/v2/internal"
+	"github.com/onsi/ginkgo/v2/internal/global"
+	"github.com/onsi/ginkgo/v2/internal/parallel_support"
+	. "github.com/onsi/ginkgo/v2/internal/test_helpers"
 	"github.com/onsi/ginkgo/v2/types"
 	. "github.com/onsi/gomega"
 )

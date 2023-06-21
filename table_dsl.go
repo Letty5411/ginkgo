@@ -5,7 +5,7 @@ import (
 	"reflect"
 	"strings"
 
-	"github.com/Letty5411/ginkgo/v2/internal"
+	"github.com/onsi/ginkgo/v2/internal"
 	"github.com/onsi/ginkgo/v2/types"
 )
 

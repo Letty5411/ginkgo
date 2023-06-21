@@ -10,7 +10,7 @@ import (
 	. "github.com/onsi/gomega"
 	"github.com/onsi/gomega/gbytes"
 
-	"github.com/Letty5411/ginkgo/v2/internal"
+	"github.com/onsi/ginkgo/v2/internal"
 )
 
 var _ = Describe("OutputInterceptor", func() {

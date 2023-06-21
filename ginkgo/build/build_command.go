@@ -3,7 +3,7 @@ package build
 import (
 	"fmt"
 
-	"github.com/Letty5411/ginkgo/v2/ginkgo/command"
+	"github.com/onsi/ginkgo/v2/ginkgo/command"
 	"github.com/onsi/ginkgo/v2/ginkgo/internal"
 	"github.com/onsi/ginkgo/v2/types"
 )

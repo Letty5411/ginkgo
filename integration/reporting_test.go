@@ -5,7 +5,7 @@ import (
 	"strings"
 
 	. "github.com/onsi/ginkgo/v2"
-	. "github.com/Letty5411/ginkgo/v2/internal/test_helpers"
+	. "github.com/onsi/ginkgo/v2/internal/test_helpers"
 	"github.com/onsi/ginkgo/v2/reporters"
 	"github.com/onsi/ginkgo/v2/types"
 	. "github.com/onsi/gomega"

@@ -8,7 +8,7 @@ import (
 	"time"
 
 	. "github.com/onsi/ginkgo/v2"
-	"github.com/Letty5411/ginkgo/v2/internal"
+	"github.com/onsi/ginkgo/v2/internal"
 	. "github.com/onsi/gomega"
 )
 

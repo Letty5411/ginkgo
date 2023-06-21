@@ -19,4 +19,4 @@ require (
 	gopkg.in/yaml.v2 v2.4.0 // indirect
 )
 
-replace github.com/onsi/ginkgo/v2 v2.1.3 => github.com/Letty5411/ginkgo/v2 v2.1.7
+replace github.com/onsi/ginkgo/v2 v2.1.3 => github.com/onsi/Letty5411/v2 v2.1.7

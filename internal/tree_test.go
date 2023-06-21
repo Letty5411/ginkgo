@@ -1,10 +1,10 @@
 package internal_test
 
 import (
-	. "github.com/Letty5411/ginkgo/v2"
+	. "github.com/onsi/ginkgo/v2"
 	. "github.com/onsi/gomega"
 
-	"github.com/Letty5411/ginkgo/v2/internal"
+	"github.com/onsi/ginkgo/v2/internal"
 )
 
 var _ = Describe("Trees (TreeNode and TreeNodes)", func() {
