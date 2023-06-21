@@ -18,5 +18,3 @@ require (
 	google.golang.org/protobuf v1.26.0 // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
 )
-
-replace github.com/onsi/ginkgo/v2 v2.1.3 => github.com/onsi/Letty5411/v2 v2.1.8
