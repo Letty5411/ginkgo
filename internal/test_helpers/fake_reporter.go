@@ -6,7 +6,7 @@ import (
 	. "github.com/onsi/gomega"
 	. "github.com/onsi/gomega/gstruct"
 
-	"github.com/onsi/ginkgo/v2/internal/interrupt_handler"
+	"github.com/Letty5411/ginkgo/v2/internal/interrupt_handler"
 	"github.com/onsi/ginkgo/v2/types"
 )
 

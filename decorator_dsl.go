@@ -1,7 +1,7 @@
 package ginkgo
 
 import (
-	"github.com/onsi/ginkgo/v2/internal"
+	"github.com/Letty5411/ginkgo/v2/internal"
 )
 
 /*

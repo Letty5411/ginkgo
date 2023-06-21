@@ -4,7 +4,7 @@ import (
 	"testing"
 
 	"github.com/onsi/ginkgo/v2/extensions/globals"
-	"github.com/onsi/ginkgo/v2/internal/global"
+	"github.com/Letty5411/ginkgo/v2/internal/global"
 )
 
 func TestGlobals(t *testing.T) {

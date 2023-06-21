@@ -4,7 +4,7 @@ import (
 	. "github.com/onsi/ginkgo/v2"
 	. "github.com/onsi/gomega"
 
-	"github.com/onsi/ginkgo/v2/internal"
+	"github.com/Letty5411/ginkgo/v2/internal"
 	"github.com/onsi/ginkgo/v2/types"
 )
 

@@ -5,7 +5,7 @@ import (
 	"github.com/onsi/ginkgo/v2/types"
 	. "github.com/onsi/gomega"
 
-	. "github.com/onsi/ginkgo/v2/internal/test_helpers"
+	. "github.com/Letty5411/ginkgo/v2/internal/test_helpers"
 )
 
 var _ = Describe("Skip", func() {

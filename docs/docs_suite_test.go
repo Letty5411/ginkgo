@@ -12,7 +12,7 @@ import (
 	"testing"
 
 	. "github.com/onsi/ginkgo/v2"
-	"github.com/onsi/ginkgo/v2/internal/test_helpers"
+	"github.com/Letty5411/ginkgo/v2/internal/test_helpers"
 	. "github.com/onsi/gomega"
 )
 

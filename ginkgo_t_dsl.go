@@ -1,6 +1,6 @@
 package ginkgo
 
-import "github.com/onsi/ginkgo/v2/internal/testingtproxy"
+import "github.com/Letty5411/ginkgo/v2/internal/testingtproxy"
 
 /*
 GinkgoT() implements an interface analogous to *testing.T and can be used with
