@@ -279,7 +279,7 @@ func (r *DefaultReporter) SuiteDidEnd(report types.Report) {
 					texts = append(texts,fmt.Sprintf("[%s]", specReport.LeafNodeType), specReport.LeafNodeText)
 				}
 				r.emitBlock(r.fi(1, highlightColor+"%s{{/}} %s", heading, strings.Join(texts, " ")))
-			} 
+			}
 		}
 	//}
 
