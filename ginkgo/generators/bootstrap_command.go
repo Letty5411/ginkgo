@@ -7,9 +7,9 @@ import (
 	"text/template"
 
 	sprig "github.com/go-task/slim-sprig"
-	"github.com/onsi/ginkgo/v2/ginkgo/command"
-	"github.com/onsi/ginkgo/v2/ginkgo/internal"
-	"github.com/onsi/ginkgo/v2/types"
+	"github.com/Letty5411/ginkgo/v2/ginkgo/command"
+	"github.com/Letty5411/ginkgo/v2/ginkgo/internal"
+	"github.com/Letty5411/ginkgo/v2/types"
 )
 
 func BuildBootstrapCommand() command.Command {

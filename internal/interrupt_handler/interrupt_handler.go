@@ -9,7 +9,7 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/onsi/ginkgo/v2/formatter"
+	"github.com/Letty5411/ginkgo/v2/formatter"
 	"github.com/Letty5411/ginkgo/v2/internal/parallel_support"
 )
 

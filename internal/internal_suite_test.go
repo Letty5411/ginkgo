@@ -4,8 +4,8 @@ import (
 	"reflect"
 	"testing"
 
-	. "github.com/onsi/ginkgo/v2"
-	"github.com/onsi/ginkgo/v2/types"
+	. "github.com/Letty5411/ginkgo/v2"
+	"github.com/Letty5411/ginkgo/v2/types"
 	. "github.com/onsi/gomega"
 
 	"github.com/Letty5411/ginkgo/v2/internal"
