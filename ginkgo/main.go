@@ -52,7 +52,7 @@ func BuildVersionCommand() command.Command {
 		Usage:    "ginkgo version",
 		ShortDoc: "Print Ginkgo's version",
 		Command: func(_ []string, _ []string) {
-			fmt.Printf("Ginkgo Version %s\n", "2.1.4-letty")
+			fmt.Printf("Ginkgo Version %s\n", "2.1.8-letty")
 		},
 	}
 }
